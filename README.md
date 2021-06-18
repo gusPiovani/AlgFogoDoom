@@ -1,3 +1,5 @@
-# fogoDoom
-Usando JS para recriar o algoritmo do fogo presente do game "DOOM"
-https://ghyrow.github.io/fogoDoom/
+# Fogo do DOOM usando JS 
+
+
+
+preview: https://ghyrow.github.io/fogoDoom/
