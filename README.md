@@ -2,4 +2,4 @@
 
 
 
-preview: https://ghyrow.github.io/AlgFogoDoom/
+preview: https://guspiovani.github.io/AlgFogoDoom/
